@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+}
+    
+.DP {
+    width:250px;
+   
+}
+.card {
+    width: 450px;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #a41dad;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.border-blue {
+    border: 1px dotted blue;
+   
+   
+   
+}
